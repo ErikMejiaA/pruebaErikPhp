@@ -1,0 +1,18 @@
+{
+    "name": "apolm01-032/prueba-erik-php",
+    "description": "programa de pruba con PHP y base de datos",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ErikMejiaA",
+            "email": "131417967+ErikMejiaA@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./config",
+            "Models\\" : "./models"
+        }
+    }
+}
